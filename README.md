@@ -33,19 +33,15 @@ graph LR
     D -- Sentinel-1 Data --> C
     C -- PDF Generation --> A
 
-## SCREENSHOTS
+### 📸 App Screenshots
 
-1. Liquid Onboarding
-   <img width="240" height="540" alt="image" src="https://github.com/user-attachments/assets/9acef504-3d69-438f-9bdc-9157a8ccd310" />
-   <img width="240" height="540" alt="image" src="https://github.com/user-attachments/assets/0350db8e-a4d9-4679-8abb-7467d4ed0e3a" />
-   <img width="240" height="540" alt="image" src="https://github.com/user-attachments/assets/53f41b06-0100-45da-8e76-7fa84184dfac" />
+| 1. Welcome Screen | 2. Onboarding Slide | 3. User Input |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/9acef504-3d69-438f-9bdc-9157a8ccd310" width="200" /> | <img src="https://github.com/user-attachments/assets/0350db8e-a4d9-4679-8abb-7467d4ed0e3a" width="200" /> | <img src="https://github.com/user-attachments/assets/53f41b06-0100-45da-8e76-7fa84184dfac" width="200" /> |
 
-3. Gat Number Input
-  <img width="240" height="540" alt="image" src="https://github.com/user-attachments/assets/6c718092-7cde-4655-98e9-30bf4f8f0f8a" />
-
-3. Flood Report
-  <img width="240" height="540" alt="image" src="https://github.com/user-attachments/assets/3d404142-b7ae-4f9d-9f0e-67eee5917634" />
-
+| 4. Gat Number Input | 5. Flood Report (PDF) | |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/6c718092-7cde-4655-98e9-30bf4f8f0f8a" width="200" /> | <img src="https://github.com/user-attachments/assets/3d404142-b7ae-4f9d-9f0e-67eee5917634" width="200" /> | |
 Smooth ripple animation introduction,User enters Village & Gat No.,Official PDF with geospatial evidence
 
 ## 🧠 The Algorithm (How it works)
