@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pyngrok
+nest_asyncio
+fpdf
+geemap
+earthengine-api
+jupyterlab
