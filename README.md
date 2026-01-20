@@ -34,15 +34,15 @@ graph LR
     C -- PDF Generation --> A
 
 1. Liquid Onboarding
-   <img width="540" height="1100" alt="image" src="https://github.com/user-attachments/assets/9acef504-3d69-438f-9bdc-9157a8ccd310" />
-   <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/0350db8e-a4d9-4679-8abb-7467d4ed0e3a" />
-   <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/53f41b06-0100-45da-8e76-7fa84184dfac" />
+   <img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/9acef504-3d69-438f-9bdc-9157a8ccd310" />
+   <img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/0350db8e-a4d9-4679-8abb-7467d4ed0e3a" />
+   <img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/53f41b06-0100-45da-8e76-7fa84184dfac" />
 
 3. Gat Number Input
-  <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/6c718092-7cde-4655-98e9-30bf4f8f0f8a" />
+  <img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/6c718092-7cde-4655-98e9-30bf4f8f0f8a" />
 
 3. Flood Report
-  <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/3d404142-b7ae-4f9d-9f0e-67eee5917634" />
+  <img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/3d404142-b7ae-4f9d-9f0e-67eee5917634" />
 
 Smooth ripple animation introduction,User enters Village & Gat No.,Official PDF with geospatial evidence
 
