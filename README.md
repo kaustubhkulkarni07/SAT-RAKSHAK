@@ -34,7 +34,7 @@ graph LR
     C -- PDF Generation --> A
 
 1. Liquid Onboarding
-   <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/9acef504-3d69-438f-9bdc-9157a8ccd310" />
+   <img width="540" height="1100" alt="image" src="https://github.com/user-attachments/assets/9acef504-3d69-438f-9bdc-9157a8ccd310" />
    <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/0350db8e-a4d9-4679-8abb-7467d4ed0e3a" />
    <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/53f41b06-0100-45da-8e76-7fa84184dfac" />
 
