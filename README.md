@@ -33,6 +33,8 @@ graph LR
     D -- Sentinel-1 Data --> C
     C -- PDF Generation --> A
 
+## SCREENSHOTS
+
 1. Liquid Onboarding
    <img width="240" height="540" alt="image" src="https://github.com/user-attachments/assets/9acef504-3d69-438f-9bdc-9157a8ccd310" />
    <img width="240" height="540" alt="image" src="https://github.com/user-attachments/assets/0350db8e-a4d9-4679-8abb-7467d4ed0e3a" />
